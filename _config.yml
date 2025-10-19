@@ -13,25 +13,31 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Mehmet Atilay Kucukoglu
+email: mk9649@nyu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+  Research Assistant at NYU's Music and Audio Research Lab (MARL), 
+  focusing on human-AI music systems, music information retrieval (MIR), 
+  digital signal processing (DSP), and deep learning for music generation.
+# twitter_username: None
+github_username: atilik
+url: "https://atilik.github.io"
+baseurl: ""            # keep empty for username.github.io
+
+minimal_mistakes_skin: aqua
 search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+kramdown:
+  input: GFM
+remote_theme: mmistakes/minimal-mistakes@4.26.2
+academicons: true
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York
 
 include:
   - _pages
@@ -56,30 +62,40 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 author:
-  name   : "First Lastname"
+  name   : "Mehmet Atilay Kucukoglu"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Research Assistant at NYU MARL"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:mk9649@nyu.edu"
+    - label: "Google Scholar"
+      icon: "fa-solid fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=H14QGKUAAAAJ"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/atilay-kucukoglu-a07255189/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/Atilik"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/atilaykucukoglu/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:mk9649@nyu.edu"
+    - label: "Google Scholar"
+      icon: "fa-solid fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=H14QGKUAAAAJ"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/atilay-kucukoglu-a07255189/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
