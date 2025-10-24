@@ -3,6 +3,7 @@ layout: single
 title: "Research Projects"
 permalink: /projects/
 author_profile: true
+classes: wide
 ---
 
 This page highlights ongoing and past research projects at **NYU MARL**.

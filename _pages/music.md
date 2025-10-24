@@ -3,6 +3,7 @@ layout: single
 title: "Music"
 permalink: /music/
 author_profile: true
+classes: wide
 ---
 
 Here you can find my musical projects like **compositions**, **productions**, and **computer music**.
