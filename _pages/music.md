@@ -45,7 +45,7 @@ Here you can find my musical projects like **compositions**, **productions**, an
   - Music producer, arrager and composer.
 
 ### 🖥️ Computer Music:
-- [Max in Memoriam Benjamin Britten](youtube.com/watch?v=uVDTAzasXeo&feature=youtu.be)
+- [Max in Memoriam Benjamin Britten](https://www.youtube.com/watch?v=uVDTAzasXeo)
   - An algorithmic reimagining of Arvo Pärt’s *Cantus in Memoriam Benjamin Britten*.
   - The canonical and rhythmic structure of the original piece realized algorithmically in Cycling ’74 Max.
 
