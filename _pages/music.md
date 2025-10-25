@@ -53,6 +53,6 @@ Here you can find my musical projects like **compositions**, **productions**, an
   - Two metronomes that can be adjusted and used as a polimetric metronome.
   - Or the randomization and effect features can be used to create unique generative music.
 
-### 🎹 Electronic Music:
-- [Work](https://www.youtube.com/watch?v=yWdMagJelFg)
-  - Electronic music composition on Thom Yorke's *Suspirium Music Video*.
+// ### 🎹 Electronic Music:
+// - [Work](https://www.youtube.com/watch?v=yWdMagJelFg)
+//   - Electronic music composition on Thom Yorke's *Suspirium Music Video*.

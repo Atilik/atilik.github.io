@@ -24,7 +24,7 @@ github_username: atilik
 url: "https://atilik.github.io"
 baseurl: ""            # keep empty for username.github.io
 
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: aqua
 search: false
 
 # Build settings
@@ -67,7 +67,7 @@ plugins:
 
 author:
   name   : "Mehmet Atilay Kucukoglu"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio_photo.jpg"
   bio    : "Research Assistant at NYU MARL"
   links:
     - label: "Email"
