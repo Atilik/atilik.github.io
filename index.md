@@ -5,13 +5,13 @@ author_profile: true
 classes: wide
 ---
 
-Hello, welcome to my website!  
+[comment]: Hello, welcome to my website!  
 - I’m a **Graduate Research Assistant at NYU’s Music and Audio Research Lab (MARL)** supervised by Dr. Magdalena Fuentes.  
 - I'm also a 2nd year master's student in **NYU Steinhardt's Music Technology** program studying MIR, deep learning for audio/music, and digital signal processing.
-- My **research interests** are controllability for human–AI music systems, music information retrieval, evaluation methods for music-generation systems, user music preference modeling.  
-- I'm writing my master's thesis **"Music User Preference Modeling for Controlling Music Generation"** where I explore novel methods to control music generation models through user listening history data.  
+- My **research interests** are controllability in music generation, music information retrieval, music generation system design, evaluation methods for music generation systems, and user music preference modeling.  
+- I'm writing my master's thesis **"Music User Preference Modeling for Controlling Music Generation"** where I explore novel methods to control music generation models through user listening history data.
 - I also have a **background in music composition and sound engineering**. 
-- Please check more of my [**research**](/projects/) and [**publications**](/publications/).
+- You can check more of my [**research**](/projects/) and [**publications**](/publications/).
 
 ### 🎓 Education
 
