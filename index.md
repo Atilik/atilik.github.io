@@ -21,7 +21,7 @@ classes: wide
     Thesis Advisor: Dr. Juan Pablo Bello  
     Research Supervisor: Dr. Magdalena Fuentes  
 
-- **Istanbul Bilgi University** – Istanbul, Turkey  
+- **Istanbul Technical University (MIAM)** – Istanbul, Turkey  
     - Master of Music in **Sound Engineering & Design** — *2024*  
 
 - **Istanbul Bilgi University** – Istanbul, Turkey  
