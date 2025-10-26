@@ -14,5 +14,6 @@ classes: wide
   *chronic stroke: Study protocol for a feasibility trial. BMJ Open, 15*(9), e109467.
   [https://doi.org/10.1136/bmjopen-2025-109467](https://doi.org/10.1136/bmjopen-2025-109467)
 
-### Works in Progress
-- *Personalized Music Generation Models* — exploring controllability and user embeddings in music generation.
+[comment]: ### Works in Progress
+[comment]: - *Music User Preference Modeling for Controlling Music Generation.*
+[comment]: - *An MIR toolbox for music therapy research.* 
